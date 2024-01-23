@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shamik-bhattacharjee-078760221/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shamik Bhattacharjee" height="30" width="40" />
+    <img align="center" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*h1dUrjhkHzMU46jW1cQjAg.gif" alt="Shamik Bhattacharjee" height="30" width="40" />
   </a>
 </p>
 
