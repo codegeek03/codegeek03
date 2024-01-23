@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fvia-giphy--1147080967566169674%2F&psig=AOvVaw2X32XGg4rKK6ypjvt1RlDW&ust=1706126001277000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCzr-mk9IMDFQAAAAAdAAAAABAD"  alt="ShamikBhattacharjee" /></p>
+<p><img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fvia-giphy--1147080967566169674%2F&psig=AOvVaw2X32XGg4rKK6ypjvt1RlDW&ust=1706126001277000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCzr-mk9IMDFQAAAAAdAAAAABAD" alt="Shamik" /></p>
 
 - 🌱 I’m currently learning about Machine Learning and Python
 
