@@ -37,9 +37,7 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
-  </a>
+
    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
   </a>
@@ -49,9 +47,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matplotlib" width="40" height="40" />
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40" />
-  </a>
+
   <!-- Add other data science-related tools as needed -->
 </p>
   <!-- Add other ML-related tools as needed -->
