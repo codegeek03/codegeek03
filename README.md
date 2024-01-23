@@ -6,4 +6,4 @@ Student at IIT Kharagpur 🚀.
 
 📫 Reach me at: shamikbhattacharjee03@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/YourLinkedInUsername](https://www.linkedin.com/in/shamik-bhattacharjee-078760221/)https://www.linkedin.com/in/shamik-bhattacharjee-078760221/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shamik-bhattacharjee-078760221/)
