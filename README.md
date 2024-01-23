@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning about Machine Learning and Python
 
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **shamikbhattacharjee03@gmail.com**
 
 <br>
 
