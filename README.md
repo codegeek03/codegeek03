@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamik Bhattacharjee</h1>
-<h3 align="center">Student at IIT Kharagpur🌟.</h3>
+<h3 align="center">Student at IIT Kharagpur🌟</h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="neur.gif" alt="Shamik" /></p>
+<p><img align="right" src="neur.gif" alt="Shamik" width="300"/></p>
 
 - 🌱 I’m currently learning about Machine Learning and Python
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shamik-bhattacharjee-078760221/" target="blank">
+  <a href="https://www.linkedin.com/in/shamik-bhattacharjee-078760221/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shamik Bhattacharjee" height="30" width="40" />
   </a>
 </p>
@@ -37,8 +37,7 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
   </a>
-
-   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -47,12 +46,7 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matplotlib" width="40" height="40" />
   </a>
-
-  <!-- Add other data science-related tools as needed -->
 </p>
-  <!-- Add other ML-related tools as needed -->
-</p>
-
 
 ### Web Development:
 <p align="left"> 
@@ -71,7 +65,6 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
   </a>
-  <!-- Add other web dev-related tools as needed -->
 </p>
 
 ### General Programming:
@@ -82,11 +75,7 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
   </a>
-  <!-- Add other general programming tools as needed -->
 </p>
-
-
-
 
 <br>
 
