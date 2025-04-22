@@ -66,18 +66,6 @@
 - 🛣️ Developed an AI-powered solution for root cause analysis of road accidents
 - 🤖 Built an end-to-end AI product for bureaucrats to optimize productivity with Agentic AI frameworks, VLMs and LLMs
 
-## 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShamikBhattacharjee&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="ShamikBhattacharjee" width="40%"/>
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShamikBhattacharjee&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="ShamikBhattacharjee" width="50%"/>
-</p>
-
-<br><br><br><br><br><br><br>
-
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/shamik-bhattacharjee-078760221/" target="_blank">
