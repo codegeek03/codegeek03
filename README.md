@@ -59,13 +59,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/>
 </p>
 
-## 🚀 Projects
-- 🧠 **Parikshak**: An LLM app to predict research paper publishability and ideal conferences
-- 🚚 **Deliverease**: Product focused on solving pain points in last mile delivery
-- 📊 Created a marketing mix model with budget optimization algorithms and KPI/KRI identification
-- 🛣️ Developed an AI-powered solution for root cause analysis of road accidents
-- 🤖 Built an end-to-end AI product for bureaucrats to optimize productivity with Agentic AI frameworks, VLMs and LLMs
-
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/shamik-bhattacharjee-078760221/" target="_blank">
